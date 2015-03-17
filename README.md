@@ -1,5 +1,3 @@
-<!Doctype html>
-
 <html>
 
 <head></head>
@@ -28,8 +26,8 @@ Web Development</br>
 <b><a href="http://getbootstrap.com/">Bootstrap</a></b> - Easy/Responsive CSS Styling
 </br>
 
-<b>Angular JS</b> - MV* Framework
-https://angularjs.org/</br>
+<b><a href="https://angularjs.org/">Angular JS</a></b> - MV* Framework
+</br>
 
 <p></p>
 
@@ -40,7 +38,7 @@ Desktop Application</br>
 <p></p>
 
 <ul>
-    <li>C#</li>
+    <li>C# or .NET languages</li>
     <li>Shell Scripting</li>
     <li>Perl</li>
 </ul>
