@@ -20,9 +20,6 @@ Web Development</br>
 
 <p></p>
 
-<b><a href="https://github.com/appjs/appjs/wiki">AppJS</a></b> - Chrome Web Frame Desktop Applications
-</br>
-
 <b><a href="http://getbootstrap.com/">Bootstrap</a></b> - Easy/Responsive CSS Styling
 </br>
 
@@ -38,6 +35,7 @@ Desktop Application</br>
 <p></p>
 
 <ul>
+    <li><a href="https://github.com/appjs/appjs/wiki">AppJS</a></b> - Chrome Web Frame Desktop Applications</br></li>
     <li>C# or .NET languages</li>
     <li>Shell Scripting</li>
     <li>Perl</li>
