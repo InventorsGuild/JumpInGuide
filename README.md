@@ -3,9 +3,8 @@
 <head></head>
     
 <body>
-===========</br>
-JumpInGuide</br>
-===========</br>
+
+<h1>JumpInGuide</h1></br>
 
 <p></p>
 
@@ -14,38 +13,45 @@ It depends on what your focus is going to be, but it would be better if we can c
 
 <p></p>
 
-===============</br>
-Web Development</br>
-===============</br>
+<h3>-Full Stack Development</h3></br>
+
+Building web applications involves having to use different technologies and tools, dealing with database manipulation, server side operations, and also client side handling and displaying of the data that comes from the server. Before starting a new project, all the tools and project structure has to be setup, which is a time consuming task. Using a framework or a stack for this task can speed up development and ease the work for the developer.
 
 <p></p>
 
-<b><a href="http://getbootstrap.com/">Bootstrap</a></b> - Easy/Responsive CSS Styling
-</br>
+Here is what I recommend.
 
-<b><a href="https://angularjs.org/">Angular JS</a></b> - MV* Framework
-</br>
+<b>LETS GET MEAN!</b>
+
+<ul>
+    <li><a href="http://www.mongodb.org/"><b>M</b>ongoDB</a></li>
+    <li><a href="http://expressjs.com/"><b>E</b>xpressJS</a></li>
+    <li><a href="https://angularjs.org/"><b>A</b>ngularJS</a></li>
+    <li><a href="https://nodejs.org/"><b>N</b>odeJS</a></li>
+</ul>
+
+As you can see, MEAN brings together four of the most used and appreciated technologies for JavaScript development, laying down the foundation for easily building complex web applications.
 
 <p></p>
 
-===================</br>
-Desktop Application</br>
-===================</br>
+<a href="http://code.tutsplus.com/tutorials/introduction-to-the-mean-stack--cms-19918">Introduction to MEAN</a></br>
+
+<p></p>
+
+<h3>-Desktop Application Development</h3></br>
 
 <p></p>
 
 <ul>
-    <li><a href="https://github.com/appjs/appjs/wiki">AppJS</a></b> - Chrome Web Frame Desktop Applications</br></li>
-    <li>C# or .NET languages</li>
-    <li>Shell Scripting</li>
-    <li>Perl</li>
+    <li><a href="https://github.com/appjs/appjs/wiki">AppJS</a></b> - Chrome Web Frame Desktop Applications.  YES, this means you can bring your web development background and make awesome cross platform Desktop applications!</br></li>
+    <li><a href="https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx">C# (See Sharp)</a></li>
+    <li><a href="http://www.freeos.com/guides/lsst/">Shell Scripting</a></li>
+    <li><a href="https://www.perl.org/">Perl</a></li>
 </ul>
 
 <p></p>
 
-===================</br>
-Need to knows</br>
-===================</br>
+<h3>-Need to Knows</h3></br>
 
 <p></p>
 <a href="http://lifehacker.com/5983680/how-the-heck-do-i-use-github">Github usage</a>
