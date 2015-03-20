@@ -31,25 +31,28 @@ Here is what I recommend.
 </ul>
 
 As you can see, MEAN brings together four of the most used and appreciated technologies for JavaScript development, laying down the foundation for easily building complex web applications.
-
 <p></p>
 
 <a href="http://code.tutsplus.com/tutorials/introduction-to-the-mean-stack--cms-19918">Introduction to MEAN</a></br>
-
 <p></p>
 
 <h3>-Desktop Application Development</h3></br>
-
 <p></p>
 
 <ul>
     <li><a href="https://github.com/appjs/appjs/wiki">AppJS</a></b> - Chrome Web Frame Desktop Applications.  YES, this means you can bring your web development background and make awesome cross platform Desktop applications!</br></li>
     <li><a href="https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx">C# (See Sharp)</a></li>
-    <li><a href="http://www.freeos.com/guides/lsst/">Shell Scripting</a></li>
-    <li><a href="https://www.perl.org/">Perl</a></li>
 </ul>
-
 <p></p>
+
+<h3>-Scripting</h3></br>
+<p></p>
+
+<ul>
+    <li><a href="http://www.freeos.com/guides/lsst/">Shell</a></li>
+    <li><a href="https://www.perl.org/">Perl</a></li>
+    <li><a href="https://technet.microsoft.com/en-us/scriptcenter/powershell.aspx">Powershell</a></li>
+</ul>
 
 <h3>-Need to Knows</h3></br>
 
