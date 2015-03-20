@@ -57,7 +57,9 @@ As you can see, MEAN brings together four of the most used and appreciated techn
 <h3>-Need to Knows</h3></br>
 
 <p></p>
-<a href="http://lifehacker.com/5983680/how-the-heck-do-i-use-github">Github usage</a>
+<ul>
+    <li><a href="http://lifehacker.com/5983680/how-the-heck-do-i-use-github">Github usage</a></li>
+    <li><a href="http://yeoman.io/generators/">Yeoman Generator</a> - Starting projects is hard, Yeoman can start it for you. Now, it's up to you to Finish!</li>
 <p></p>
 </body>
 </html>
