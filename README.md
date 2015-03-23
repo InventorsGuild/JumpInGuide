@@ -11,6 +11,9 @@
 These are the technologies that we may want to focus on using.
 It depends on what your focus is going to be, but it would be better if we can communcate on some of these similar topics rather than all do something different.
 
+<b>Note:</b> Don't be overwhelmed by everything.  Learning this will take time.
+Find a driving factor.  Find out what kind of project you want to do, then start.  Don't get hung up on if you chose the right tool for the job or not.  Pretty much everything is possible with this stack, some aspects might require a different tool.  We will cross those bridges as we come across them.
+
 <p></p>
 
 <h3>-Full Stack Development</h3></br>
