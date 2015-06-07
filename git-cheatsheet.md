@@ -5,4 +5,5 @@
 
 <h3>Run within a cloned repository</h3>
 <b>git pull</b> - Updates the working repository to the latest head version</br> 
-<
+
+<a href="https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf">Github Cheatsheet!!!!!</a>
